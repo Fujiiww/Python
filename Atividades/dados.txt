@@ -1,3 +1,5 @@
+# arquivo da atividade MANIPULACAO+ARQUIVO
+
 DADO 1: a 
 DADO 2: b 
 DADO 3: c 
