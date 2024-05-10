@@ -1,0 +1,3 @@
+DADO 1: a 
+DADO 2: b 
+DADO 3: c 
